@@ -1,1 +1,1 @@
-# full_stack_angular
+# This is a project to demonstrate java with angular
